@@ -1,4 +1,5 @@
 # kaggle-titanic
+以下のコンペのためのリポジトリです。
 https://www.kaggle.com/c/titanic
 
 
