@@ -1,13 +1,13 @@
 # kaggle-titanic
 以下のコンペのためのリポジトリです。
-https://www.kaggle.com/c/titanic
+- https://www.kaggle.com/c/titanic
 
 
 ## Setup
 
 ### データのセットアップ
 下記のページからデータをすべてダウンロードして、input/ フォルダに配置します。
-https://www.kaggle.com/c/titanic/data
+- https://www.kaggle.com/c/titanic/data
 
 ### docker-compose のセットアップ
 1. 下記の手順を参考に Docker CE、Docker Compose をインストールします。
